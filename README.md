@@ -2,7 +2,7 @@
 
 ## Preámbulo
 
-![Estadisticas](https://subefotos.com/ver/?6f994b6c5a23ef659998720d8a47d5aeo.png)
+![Canvas](https://subefotos.com/ver/?42df543eafb97b026ace4cecabb29eaco.jpg)
 
 Los modelos de negocio que hicieran exitosas a
 empresas en el pasado, no son los mismos que pueden
@@ -17,13 +17,6 @@ e-commerce viceversa. La época de los pure players se acerca a su fin.
 Tan solo en México durante 2018, 8 de cada 10 internautas mexicanos compraron en línea algún producto o servicio. En 2017 el 65.5% de la población tuvo acceso a Internet, lo que
 equivale a 85 millones de personas, y la frecuencia de estas compras aumenta cada vez ya que actualmente se realizan el 29% de las transacciones en línea de manera mensual.
 
-El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito,
-pero estos casos no se conseguirán en corto plazo, esto será el resultado de construir un
-círculo virtuoso donde quepan el progreso de la economía y el de la sociedad.
-
-¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida 
-en la nueva era?
-
 ## Introducción
 
 ### “Nuevo portal de e-commerce”
@@ -31,18 +24,10 @@ en la nueva era?
 Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
 asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
 de alimentos naturales, creativos, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
+que asesoremos a **Tribook**, uno de sus miembros en crear un portal desde donde los
+consumidores compren sus productos sin intermediarios. 
 
-- Vidalis (Alimentos saludables)
-- Belier Footwear (Calzado Artesanal)
-- Jardín Xamaica (Jardín de Eventos)
-- Marco Cerino fotografía (Fotografía experimental y comercial)
-- Bohema (Diseño especializado en Marroquinería)
-- Victoria147 (Plataforma online para emprendedoras)
 
-Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1jS7njhezsstJ5C0Otcd_BPgYU5ZiyIUrJiz8PbjWZ7w/edit?usp=sharing)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
