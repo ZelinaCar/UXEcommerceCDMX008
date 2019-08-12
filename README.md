@@ -2,7 +2,7 @@
 
 ## Preámbulo
 
-![Estadisticas](https://drive.google.com/open?id=1suGHwX9iyolBp6Gkyy57utwwURPRpUA4)
+![Estadisticas](https://subefotos.com/ver/?6f994b6c5a23ef659998720d8a47d5aeo.png)
 
 Los modelos de negocio que hicieran exitosas a
 empresas en el pasado, no son los mismos que pueden
