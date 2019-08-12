@@ -2,6 +2,8 @@
 
 ## Preámbulo
 
+![Estadisticas](https://drive.google.com/open?id=1suGHwX9iyolBp6Gkyy57utwwURPRpUA4)
+
 Los modelos de negocio que hicieran exitosas a
 empresas en el pasado, no son los mismos que pueden
 llevar al éxito a las empresas en la actualidad.
